@@ -31,7 +31,10 @@ body {
     align-items: center;
 
 }
-
+#nav a{
+    text-decoration: none;
+    font-size: 20px;
+}
 #nav-iteam {
     text-align: center;
 
@@ -476,6 +479,7 @@ img {
 @media (max-width:600px) {
     #nav {
         height: 60px;
+        padding: 0% 7%;
     }
 
     #effects {
@@ -483,7 +487,14 @@ img {
         width: 0PX;
         height: 255px;
     }
-
+    #nav-iteam a {
+        
+        font-size: 12px;
+        font-weight: 500;
+        
+    
+    
+    }
 
     #page1 {
         height: 85vh;
@@ -526,7 +537,7 @@ img {
     #text-1 {
         height: 65%;
         display: grid;
-        grid-template-rows: 50% 30% 25%;
+        grid-template-rows: 50% 25% 15%;
         align-items: center;
         padding-left: 0px;
 
