@@ -607,5 +607,38 @@ display: none;
 {
     display: none;
 }
+   #text h2 {
+        text-align: center;
+        font-size: 30px;
+        margin-left: 0px;
+    }
+
+    #cantainer-rigth {
+        display: none;
+    }
+
+    #cantainer-left {
+
+        width: 100%;
+        height: 80%;
+    }
+
+
+    #contact-cantainer {
+
+
+        height: 65%;
+
+    }
+
+    #forms {
+        width: 80%;
+    }
+
+    button {
+
+        margin-left: 31PX;
+
+    }
 
 }
