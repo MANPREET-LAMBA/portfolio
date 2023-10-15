@@ -191,6 +191,13 @@ body {
     grid-template-columns: 42% 58%;
 }
 
+
+#page2-img img{
+    width: 80%;
+    height: 70%;
+   padding-top: 5%;
+    padding-left: 10%;
+}
 #page2-text {
     margin-top: 28px;
     width: 90%;
