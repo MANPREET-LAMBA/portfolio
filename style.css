@@ -338,7 +338,7 @@ width: 60%;
 }
 
 .message {
-    width: 510px;
+    width: 100%;
     margin-bottom: 20px;
     height: 25px;
     border: none;
